@@ -1,6 +1,6 @@
 # Assignment-2-Basic-statistics_2
 
-	Q1.Look at the data given below. Plot the data, find the outliers and find out  μ,σ,σ^2?
+Q1. Look at the data given below.plot the data,find the outliers and find out μ,σ,σ^2?	
 Name of company     Measure X
 Allied Signal      	24.23%
 Bankers Trust	      25.53%
@@ -20,4 +20,5 @@ Warner-Lambert    	35.00%
 
 
 Q4.	AT&T was running commercials in 1990 aimed at luring back customers who had switched to one of the other long-distance phone service providers. One such commercial shows a businessman trying to reach Phoenix and mistakenly getting Fiji, where a half-naked native on a beach responds incomprehensibly in Polynesian. When asked about this advertisement, AT&T admitted that the portrayed incident did not actually take place but added that this was an enactment of something that “could happen.” Suppose that one in 200 long-distance telephone calls is misdirected. What is the probability that at least one in five attempted telephone calls reaches the wrong number? (Assume independence of attempts.)
+
 
