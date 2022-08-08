@@ -76,4 +76,3 @@ ANS:-The good measure of the risk involved in a venture of this kind depends on 
 Higher Variance means more chances of risk Var (X) = E(X^2) –(E(X))^2 
 = 2800000 – 800^2 = 2160000
 
-# SET-2
