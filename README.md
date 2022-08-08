@@ -1,4 +1,4 @@
-# Assignment-2-SET-2
+# Assignment-2-Basic Statistic-2
 # SET-1
 Q1. Look at the data given below.plot the data,find the outliers and find out μ,σ,σ^2?	
 Name of company     Measure X
@@ -76,3 +76,6 @@ ANS:-The good measure of the risk involved in a venture of this kind depends on 
 Higher Variance means more chances of risk Var (X) = E(X^2) –(E(X))^2 
 = 2800000 – 800^2 = 2160000
 
+# SET-2
+
+Q3.If X1 ~ N(μ, σ2) and X2 ~ N(μ, σ2) are iid normal random variables, then what is the difference between 2 X1 and X1 + X2? Discuss both their distributions and parameters. 
