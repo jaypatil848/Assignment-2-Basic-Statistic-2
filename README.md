@@ -1,4 +1,4 @@
-# Assignment-2-Basic-statistics_2
+# Assignment-2-SET-2
 # SET-1
 Q1. Look at the data given below.plot the data,find the outliers and find out μ,σ,σ^2?	
 Name of company     Measure X
