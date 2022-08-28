@@ -99,3 +99,7 @@ Higher Variance means more chances of risk Var (X) = E(X^2) –(E(X))^2
 # SET-2
 
 Q3.If X1 ~ N(μ, σ2) and X2 ~ N(μ, σ2) are iid normal random variables, then what is the difference between 2 X1 and X1 + X2? Discuss both their distributions and parameters. 
+ANS:-  2 X_1 is simply a larger scale version of the random variable X1. If  X_1  is normally distributed then 2X1 is also normally distributed. 
+X1 and X2 are  normal distributed, the associated sums and random samples are exactly (and not just approximately) normal, with the appropriate parameters.
+
+#SET-4
